@@ -1,0 +1,18 @@
+{
+  "name": "THT | Profil Hızlı Erişim Eklentisi",
+  "description": "Belirlenen üyelerin profillere gitmek için yazılmış bir eklenti.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "action": {
+    "default_title": "THT | GRIMNER",
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  },
+  "icons": {
+    "1024": "logo.png"
+  }
+}
